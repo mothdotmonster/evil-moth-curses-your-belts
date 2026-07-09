@@ -1,9 +1,9 @@
 {
 	"name": "evil-moth-curses-your-belts",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"title": "Deep Underground Belts",
 	"author": "Chesapeake [moth.monster]",
-	"factorio_version": "2.0",
+	"factorio_version": "2.1",
 	"dependencies": ["base >= 2.0", "? space-age", "? boblogistics", "? Krastorio2", "? Krastorio2-spaced-out"],
 	"description": "I am so sorry.",
 	"contact": "hello@moth.monster"
